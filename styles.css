@@ -1,3 +1,28 @@
 body {
-	background: blue;
+	background: azure;
+	background-image: url(pattern.jpg);
+}
+
+table, th, td {
+	border: 1px solid black;
+}
+
+table {
+	border-collapse: collapse;
+	margin: 20px;
+}
+
+footer {
+	margin: auto;
+	width: 50%;
+	font: italic 1.5em Arial,serif;
+}
+
+h1 {
+	width: 50%;
+	margin: auto;
+	border: 3px solid black;
+	padding: 20px;
+	margin-bottom: 30px;
+	margin-top: 30px;
 }
