@@ -26,3 +26,20 @@ h1 {
 	margin-bottom: 30px;
 	margin-top: 30px;
 }
+
+.dotted {
+	text-decoration: underline;
+}
+
+a:link {
+	color: orange;
+}
+
+a:visited {
+	color: green;
+}
+
+#world-champions {
+	text-decoration: underline;
+	text-align: center;
+}
