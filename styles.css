@@ -44,3 +44,15 @@ a:visited {
 	text-decoration: underline;
 	color: magenta;
 }
+
+@media screen and (max-width: 550px) {
+	.champ {
+		width: 90%;
+	}
+}
+
+@media screen and (max-width: 930px) {
+	.f1 {
+		width: 90%;
+	}
+}
